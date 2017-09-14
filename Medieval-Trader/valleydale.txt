@@ -1,0 +1,4 @@
+valleydale
+donkeys 4 9
+swords 8 7
+cookpots 6 2
